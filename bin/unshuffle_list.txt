@@ -48,6 +48,7 @@ src/java.transaction : jdk/src/java.transaction
 src/java.xml : jaxp/src/java.xml
 src/java.xml.bind : jaxws/src/java.xml.bind
 src/java.xml.crypto : jdk/src/java.xml.crypto
+src/ru.npsystems : ru.npsystems
 src/java.xml.ws : jaxws/src/java.xml.ws
 src/java.xml.ws.annotation : jaxws/src/java.xml.ws.annotation
 src/jdk.accessibility : jdk/src/jdk.accessibility
